@@ -4,9 +4,7 @@ _backup/
 results/
 logs/
 
-!data/
-data/*
-!data/*.py
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
